@@ -1,4 +1,4 @@
-cff-version: 1.819
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 
 authors:
@@ -8,7 +8,7 @@ authors:
   email: "hsabaghainb@kashanu.ac.ir"
 
 title: "KU_PN_Tool: A MATLAB Toolbox for Petri Net Modeling and Analysis"
-version: 1.819
+version: "1.819"
 date-released: 2016-01-01
 url: "https://github.com/hsabaghianb/KU_PN_Tool_v1.819"
 license: "MIT"

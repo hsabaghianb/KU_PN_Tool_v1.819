@@ -23,4 +23,7 @@ stochastic, and generalized Petri net models.
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/USERNAME/KU_PN_Tool_v1.819.git
+   git clone https://github.com/hsabaghianb/KU_PN_Tool_v1.819
+
+⚠️ This software is under active development and has not yet been released as a stable version.
+Users are encouraged to cite the repository directly when using the code.

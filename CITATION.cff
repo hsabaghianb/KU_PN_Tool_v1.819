@@ -1,19 +1,14 @@
 cff-version: 1.819
-message: "If you use this software in your research, please cite it as follows."
+message: "If you use this software, please cite it as below."
+
+authors:
+- family-names: "Sabaghain-Bidgoli"
+  given-names: "Hossein"
+  affiliation: "University of Kashan"
+  email: "hsabaghainb@kashanu.ac.ir"
+
 title: "KU_PN_Tool: A MATLAB Toolbox for Petri Net Modeling and Analysis"
 version: 1.819
 date-released: 2016-01-01
-license: MIT
-
-authors:
-  - family-names: Sabaghain-Bidgoli
-    given-names: Hossein
-    affiliation: University of Kashan
-    email: hsabaghainb@kashanu.ac.ir
-
-keywords:
-  - Petri Nets
-  - MATLAB
-  - Simulation
-  - Performance Evaluation
-  - System Modeling
+url: "https://github.com/hsabaghianb/KU_PN_Tool_v1.819"
+license: "MIT"

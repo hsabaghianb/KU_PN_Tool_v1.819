@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 
 authors:
-- family-names: "Sabaghain-Bidgoli"
+- family-names: "Sabaghian-Bidgoli"
   given-names: "Hossein"
   affiliation: "University of Kashan"
-  email: "hsabaghainb@kashanu.ac.ir"
+  email: "hsabaghianb@kashanu.ac.ir"
 
 title: "KU_PN_Tool: A MATLAB Toolbox for Petri Net Modeling and Analysis"
 version: "1.819"

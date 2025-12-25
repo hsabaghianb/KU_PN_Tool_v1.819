@@ -1,9 +1,11 @@
 # KU_PN_Tool
 
-**KU_PN_Tool** is an open-source MATLAB toolbox for modeling, simulation, and performance analysis of 
-computer systems based on **Petri Nets**. This tool provides a comprehensive and flexible framework for 
-constructing, visualizing, simulating, and analyzing various classes of Petri nets, including deterministic, 
+**KU_PN_Tool** is an open-source MATLAB toolbox for modeling, simulation, and performance analysis of
+computer systems based on **Petri Nets**. This tool provides a comprehensive and flexible framework for
+constructing, visualizing, simulating, and analyzing various classes of Petri nets, including deterministic,
 stochastic, and generalized Petri net models.
+
+---
 
 ## Features
 
@@ -18,12 +20,10 @@ stochastic, and generalized Petri net models.
 - Hierarchical and data-based Petri net modeling
 - Fully implemented in MATLAB with open-source code
 
+---
 
 ## Installation
 
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/hsabaghianb/KU_PN_Tool_v1.819
-
-⚠️ This software is under active development and has not yet been released as a stable version.
-Users are encouraged to cite the repository directly when using the code.

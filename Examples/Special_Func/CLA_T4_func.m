@@ -21,8 +21,8 @@ function [PN_model,Transaction_ID]=CLA_T4_func(PN_model,Tr)
     end
 % ----------------------------------------------------
 if PN_model.ProbWeight(1)>0.000001
-    PN_model.ProbWeight(1)=PN_model.ProbWeight(1)-0.2;
-    PN_model.ProbWeight(2)=PN_model.ProbWeight(2)+0.2;
+    PN_model.ProbWeight(1)=PN_model.ProbWeight(1)-0.05;
+    PN_model.ProbWeight(2)=PN_model.ProbWeight(2)+0.05;
 end
 % ----------------------------------------------------
     %Add Token To All Post Places
